@@ -1,8 +1,6 @@
-
 import java.util.Scanner;
 
-
-class Program{
+public class Program {
 
 	public static boolean isInteger(Scanner scanner){
 		return scanner.hasNextInt();
