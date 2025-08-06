@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
 
-class Program{
+public class Program {
 	public static int targetWeek = 1;
 	public static int maxWeek = 18;
 
