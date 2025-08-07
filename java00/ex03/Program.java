@@ -1,15 +1,8 @@
 import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
-/* 
-	5 test each week
-	grade 1 - 9
-	max 18 weeks
-	graph of teh min grade of each week
-	week's order matter
 
-*/
-class Program{
+public class Program {
 	public static int targetWeek = 1;
 	public static int maxWeek = 18;
 

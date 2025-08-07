@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Program{
+public class Program {
 	public static int sumInput(int input){
 		int result = 0;
 		while (input > 0){
