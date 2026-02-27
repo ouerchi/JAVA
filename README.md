@@ -1,1 +1,1 @@
-JAVA Cursus
+JAVA exercises
