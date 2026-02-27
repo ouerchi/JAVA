@@ -21,10 +21,12 @@ class Program{
             if (num % i == 0){
                 isPrime = false;
                 System.out.println(false + " " + iterations);
+                sc.close();
                 System.exit(1);
             }
         }
         iterations++;
         System.out.println(isPrime + " " + iterations);
+        sc.close();
     }
 }
